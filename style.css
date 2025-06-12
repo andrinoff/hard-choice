@@ -1,0 +1,11 @@
+#y{
+    position: absolute;
+    top:30%;
+    left:40%;
+}
+#n{
+    background-color: red !important;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
